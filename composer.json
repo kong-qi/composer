@@ -1,0 +1,17 @@
+{
+	"name": "kong-qi/demo-text",
+	"description":"this is kong-qi demo test packagist",
+	"license":"MIT",
+	"minimum-stability":"dev",
+    "require": {
+        "php": "~5.3.*",
+    },
+    "require-dev": {
+       
+    },
+    "autoload": {
+        "psr-4": {
+            "KongQiHui\\DemoText\\": "src/"
+        }
+    }
+}
